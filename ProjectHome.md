@@ -1,0 +1,2 @@
+This is a small code snippet that allows accurate collision detection in Ogre without any external physics library.
+It's based on the MOC (minimal ogre collision) lib idea, but with focus on performances and efficiency.
